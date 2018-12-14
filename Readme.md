@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Алексей Ким](https://up.htmlacademy.ru/htmlcss/23/user/767011).
-* Наставник: [Анна Лёмина](https://htmlacademy.ru/profile/id83874).
+* Студент: [Виндоуз всея Руси](https://up.htmlacademy.ru/htmlcss/23/user/767011).
+* Наставник: [Сенсей](https://htmlacademy.ru/profile/id83874).
 
 ---
 
